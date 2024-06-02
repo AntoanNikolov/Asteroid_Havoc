@@ -13,8 +13,8 @@ Platform and Technology Requirements
 Any computer with Python and Pygame installed.
 
 ESRB Rating: Everyone (E) - The game contains no objectionable material and is suitable for all ages.
-G
-ame Description
+
+Game Description
 In Asteroid Havoc, players pilot a spaceship through an asteroid field. The goal is to shoot down the enemy spaceship. The game offers straightforward gameplay with a small learning curve
 
 Level Design
@@ -42,11 +42,14 @@ Laser Sound: dklon, CC-BY 3.0
 
 
 Characters and Objects with Behaviors
+
 Spaceship and UFO(Player):
 ●	Controls: Arrow keys for movement.
 ●	Behavior: Navigate through the asteroid field, avoiding collisions, and shooting lasers at the enemy.
+
 Asteroids:
 ●	Behavior: Drift through space, posing obstacles to the player's spaceship.
+
 Instructions for Players
 ●	Use WASD to move Spaceship
 ●	Use Space to shoot from Spaceship
@@ -54,8 +57,9 @@ Instructions for Players
 ●	Use Enter to shoot from UFO
 ●	Avoid colliding with asteroids and enemy lasers to stay alive.
 ●	Pick up star to boost fire rate
-●	Hit enemy with lasers to damage them
-●	Grab the star for a power up
+●	Hit the enemy with lasers to damage them
+●	Grab the star for a power-up
+
 Scoring, Win/Lose Conditions, and Objectives
 ●	Scoring: Take down the enemy.
 ●	Win Conditions: Hit the enemy 5 times.
