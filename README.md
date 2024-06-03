@@ -3,28 +3,28 @@ Asteroid Havoc - Game Design Document    (CHECK ATTACHED WORD DOCUMENT FOR IMAGE
 
 Asteroid Havoc
 
-Game Purpose/Genre
+Game Purpose/Genre:
 Asteroid Havoc is an arcade-style action game set in space. Two players control a spaceship and a UFO, navigating through an asteroid field while avoiding collisions and battling each other.
 
-Target Audience
+Target Audience:
 The game is suitable for players aged 7 and up who enjoy arcade games with simple controls and gameplay.
 
-Platform and Technology Requirements
+Platform and Technology Requirements:
 Any computer with Python and Pygame installed.
 
 ESRB Rating: Everyone (E) - The game contains no objectionable material and is suitable for all ages.
 
-Game Description
+Game Description:
 In Asteroid Havoc, players pilot a spaceship through an asteroid field. The goal is to shoot down the enemy spaceship. The game offers straightforward gameplay with a small learning curve
 
-Level Design
+Level Design:
 The game takes place in space, with players navigating through an asteroid field. The level design is simple but challenging, with asteroids and powerup stars appearing randomly to test the player's reflexes.
  
  
 
  
   
-Graphics
+Graphics:
 Asteroid Havoc features simple 2D graphics with colorful sprites for spaceships, asteroids, and UFOs. The background depicts a telescope image of space.
  
 Credit for textures:
