@@ -1,4 +1,4 @@
-Asteroid Havoc - Game Design Document    (CHECK ATTACHED WORD DOCUMENT FOR IMAGES AND FURTHER EXPLANATIONS
+Asteroid Havoc - Game Design Document
 
 
 Asteroid Havoc
@@ -26,6 +26,8 @@ The game takes place in space, with players navigating through an asteroid field
   
 Graphics:
 Asteroid Havoc features simple 2D graphics with colorful sprites for spaceships, asteroids, and UFOs. The background depicts a telescope image of space.
+![image](https://github.com/user-attachments/assets/ccb96b42-70f1-4d2c-a556-68eb643a8a37)
+
  
 Credit for textures:
 Background: Picture from James Webb telescope
