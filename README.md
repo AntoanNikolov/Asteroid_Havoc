@@ -1,4 +1,4 @@
-Asteroid Havoc - Game Design Document
+### Asteroid Havoc - Game Design Document
 
 
 Asteroid Havoc
